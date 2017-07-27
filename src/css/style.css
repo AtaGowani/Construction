@@ -82,6 +82,13 @@ ul li:last-child:after {
   border-radius: 2%;
 }
 
+@media (max-width: 548px) {
+  .underconstruction-sign {
+    top: 4%;
+    right: 8%;
+  }
+}
+
 .underconstruction-sign .pin {
   position: absolute;
   top: 4%;
