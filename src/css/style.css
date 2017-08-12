@@ -89,16 +89,6 @@ ul li:last-child:after {
   }
 }
 
-.underconstruction-sign .pin {
-  position: absolute;
-  top: 4%;
-  left: 47%;
-  height: .3rem;
-  width: .3rem;
-  border-radius: 100%;
-  background: #000;
-}
-
 .underconstruction-words {
   position: absolute;
   top: 42%;
