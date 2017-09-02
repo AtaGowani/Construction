@@ -72,7 +72,6 @@ ul li:last-child:after {
 
 .underconstruction-sign {
   transform: rotate(-5deg);
-  padding: .1rem;
   top: 10%;
   right: 10%;
   position: absolute;
@@ -80,6 +79,7 @@ ul li:last-child:after {
   height: 5rem;
   width: 10rem;
   border-radius: 2%;
+  text-align: center;
 }
 
 @media (max-width: 548px) {
@@ -90,25 +90,17 @@ ul li:last-child:after {
 }
 
 .underconstruction-words {
-  position: absolute;
-  top: 42%;
-  left: 28%;
   color: #000;
 }
 
 .underconstruction-words-1 {
   font-size: 12px;
-  position: absolute;
-  top: 65%;
-  left: 18%;
   color: #000;
+  margin-top: -.3rem;
 }
 
 .underconstruction-sign .warning-sign {
-  position: absolute;
-  top: 0;
-  left: 38%;
-  font-size: 2rem;
+  padding-top: .5rem;
 }
 
 .cones {
