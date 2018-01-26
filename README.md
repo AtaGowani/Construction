@@ -1,6 +1,6 @@
 # Under Construction Webpage Design
 
-This is a under construction page I designed and developed while my website was under construction. It is not up here for anyone else who is looking for a creative and simple under construction page to put up or to be inspired from.
+This is a under construction page I designed and developed while my website was under construction. It is now up here for anyone else who is looking for a creative and simple under construction page to put up or to be inspired from.
 
 ## How to use it?
 
